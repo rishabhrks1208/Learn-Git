@@ -8,5 +8,5 @@ int main()
 
     int diff = a - b;
 
-    cout << diff << endl;
+    cout << diff;
 }
